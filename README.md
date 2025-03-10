@@ -1,1 +1,1 @@
-<img alt="github-snake" src="https://raw.githubusercontent.com/leonidimeev/leonidimeev/refs/heads/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+![GitHub Snake](https://raw.githubusercontent.com/leonidimeev/leonidimeev/output/github-contribution-grid-snake.svg)
